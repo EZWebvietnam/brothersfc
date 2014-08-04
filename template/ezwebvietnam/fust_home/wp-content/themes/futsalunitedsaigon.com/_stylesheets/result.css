@@ -1,0 +1,109 @@
+.fixture-info.post-match {
+		width: 437px;
+		padding: 0 0 0 20px;
+		}
+		.fixture-info {
+		padding: 0 30px 0 20px;
+		background: url('../_images/fixture-strip-bg.png') top repeat-x;
+		margin: 20px 0 1px 0px;
+		width: 646px;
+		}
+		table {
+		max-width: 100%;
+		border-spacing: 0;
+		border-collapse: collapse;
+		}
+		.fixture-info.post-match .fixture-date {
+		width: 140px;
+		}
+		.fixture-info .against {
+		width: 151px;
+		font-size: 18px;
+		font-weight: 700;
+		font-family: "ff-meta-web-pro-n4", "ff-meta-web-pro", arial, sans-serif;
+		}
+		info .away {
+		width: 36px;
+		}
+		.fixture-info .away span {
+		line-height: 39px;
+		width: 36px;
+		text-align: center;
+		display: block;
+		background: #fff;
+		font-weight: bold;
+		}
+		.fixture-info .fixture-competition {
+		text-align: right;
+		}
+		.fixture-info.post-match .final-score {
+		font-family: "agency-gothic-ct-cond-tt-n5", "agency-gothic-ct-cond-tt", arial, sans-serif;
+		width: 78px;
+		color: #888888;
+		text-align: right;
+		}
+		.fixture-info.post-match .final-score table {
+		width: 100%;
+		}
+		.fixture-info.post-match .final-score table td {
+		width: 26px;
+		font-size: 36px;
+		font-weight: 500;
+		}
+		.fixture-info.post-match .final-score .red {
+		color: #ff0000;
+		}
+		.fixture-info.post-match .center-score {
+		text-align: center;
+		}
+		.fixture-info table td {
+		height: 57px;
+		vertical-align: middle;
+		}
+		.fixture-info.post-match .right-score {
+		text-align: left;
+		}
+		.fixture-info.post-match .final-score {
+		font-family: "agency-gothic-ct-cond-tt-n5", "agency-gothic-ct-cond-tt", arial, sans-serif;
+		width: 78px;
+		color: #888888;
+		text-align: right;
+		}
+		.fixture-info table {
+		width: 100%;
+		font-size: 13px;
+		}
+		.small-only, .medium-only {
+		display: none;
+		}
+		.fixture-extra-info {
+		padding: 0 20px;
+		position: relative;
+		background: #e6e6e6;
+		height: 30px;
+		width: 418px;
+		margin: 0 0 0 0px;
+		list-style: none;
+		}
+		.fixture-extra-info li {
+		float: left;
+		}
+		.fixture-extra-info .fixture-news-btn.post-match {
+		right: 20px;
+		}
+		.fixture-extra-info .fixture-news-btn {
+		position: absolute;
+		top: 0;
+		right: 143px;
+		}
+		.fixture-extra-info .fixture-news-btn a.red-arrow-link {
+		line-height: 30px;
+		background: url("../images/structure/sprite.png?v=1.12.5") no-repeat;
+		background-position: 11px -691px;
+		}
+		.red-arrow-link {
+		padding: 0 0 0 25px;
+		display: inline-block;
+		background: url("../images/structure/sprite.png?v=1.12.5") no-repeat;
+		background-position: 11px -696px;
+		}
